@@ -78,8 +78,8 @@ public class LongTravels {
 	@ForgeSubscribe
 	public void what() {
 		System.out.println("Downloading viruses...");
+		//unused for now
 	}
-	//unused for now
 	
 	public static Item ruby;
 
